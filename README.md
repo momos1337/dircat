@@ -8,7 +8,7 @@ Directory Cat Scanner!
 php dircat.php target.go.id wordlist.txt
 ```
 #### Maybe For Powerfull Wordlist
-https://github.com/0xspade/Directory-Wordlist
+- https://github.com/0xspade/Directory-Wordlist
 
 #### Requirements
 - PHP CURL
